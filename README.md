@@ -8,3 +8,4 @@
 - [Roman to Integer](./roman_to_integer/main.go)
 - [Longest Common Prefix](./longest_common_prefix/main.go)
 - [3Sum](./three_sum/main.go)
+- [Valid Parentheses](./valid_parentheses/main.go)
