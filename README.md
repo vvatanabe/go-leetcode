@@ -9,3 +9,4 @@
 - [Longest Common Prefix](./longest_common_prefix/main.go)
 - [3Sum](./three_sum/main.go)
 - [Valid Parentheses](./valid_parentheses/main.go)
+- [Merge Two Sorted Lists](./merge_two_sorted_lists/main.go)
