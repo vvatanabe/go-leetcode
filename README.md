@@ -11,3 +11,4 @@
 - [Valid Parentheses](./valid_parentheses/main.go)
 - [Merge Two Sorted Lists](./merge_two_sorted_lists/main.go)
 - [Remove Duplicates from Sorted Array](./remove_duplicates_from_sorted_array/main.go)
+- [Remove Element](./remove_element/main.go)
