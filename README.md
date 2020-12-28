@@ -15,3 +15,4 @@
 - [Implement strStr()](./implement_strstr/main.go)
 - [Search Insert Position](./search_insert_position/main.go)
 - [Length of Last Word](./length_of_last_word/main.go)
+- [Plus One](./plus_one/main.go)
