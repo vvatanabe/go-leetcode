@@ -1,4 +1,4 @@
-# go-leetcode
+# go-leetcode ![Go](https://github.com/vvatanabe/go-leetcode/workflows/Go/badge.svg)
 
 ## Table Contents
 
