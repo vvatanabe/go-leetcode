@@ -12,3 +12,4 @@
 - [Merge Two Sorted Lists](./merge_two_sorted_lists/main.go)
 - [Remove Duplicates from Sorted Array](./remove_duplicates_from_sorted_array/main.go)
 - [Remove Element](./remove_element/main.go)
+- [Implement strStr()](./implement_strstr/main.go)
