@@ -1,5 +1,7 @@
 # go-leetcode ![Go](https://github.com/vvatanabe/go-leetcode/workflows/Go/badge.svg)
 
+[leetcode](https://leetcode.com/) in Go
+
 ## Table Contents
 
 - [Two Sum](./two_sum/main.go)
