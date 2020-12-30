@@ -20,5 +20,5 @@
 - [Plus One](./plus_one/main.go)
 - [Maximum Subarray](./maximum_subarray/main.go)
 - [Add Binary](./add_binary/main.go)
-- [Add Binary](./add_binary/main.go)
 - [Sqrt(x)](./sqrtx/main.go)
+- [Climb Stairs](./climbing_stairs/main.go)
