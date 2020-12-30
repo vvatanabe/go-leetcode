@@ -1,7 +1,7 @@
 package main
 
 func climbStairs(n int) int {
-	return f(n, make(map[int]int))
+	return f(n, make(map[int]int, n))
 }
 
 func f(n int, memo map[int]int) int {
