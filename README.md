@@ -22,3 +22,4 @@
 - [Add Binary](./add_binary/main.go)
 - [Sqrt(x)](./sqrtx/main.go)
 - [Climb Stairs](./climbing_stairs/main.go)
+- [Merge Sorted Array](./merge_sorted_array/main.go)
