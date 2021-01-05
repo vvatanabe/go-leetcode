@@ -24,3 +24,4 @@
 - [Climb Stairs](./climbing_stairs/main.go)
 - [Merge Sorted Array](./merge_sorted_array/main.go)
 - [Same Tree](./same_tree/main.go)
+- [Maximum Depth of Binary Tree](./maximum_depth_of_binary_tree/main.go)
