@@ -26,3 +26,4 @@
 - [Same Tree](./same_tree/main.go)
 - [Maximum Depth of Binary Tree](./maximum_depth_of_binary_tree/main.go)
 - [Binary Tree Level Order Traversal II](./binary_tree_level_order_traversal_ii/main.go)
+- [Convert Sorted Array to Binary Search Tree](./convert_sorted_array_to_binary_search_tree/main.go)
