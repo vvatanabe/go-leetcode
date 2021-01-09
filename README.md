@@ -32,3 +32,4 @@
 - [Best Time to Buy and Sell Stock](./best_time_to_buy_and_sell_stock/main.go)
 - [Best Time to Buy and Sell Stock II](./best_time_to_buy_and_sell_stock_ii/main.go)
 - [Valid Palindrome](./valid_palindrome/main.go)
+- [Single Number](./single_number/main.go)
