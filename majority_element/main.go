@@ -3,11 +3,12 @@ package main
 func majorityElement(nums []int) int {
 	var major, num int
 	for _, v := range nums {
-		if v != major && num <= 0 {
+		switch {
+		case v != major && num <= 0:
 			major = v
-		} else if v != major {
+		case v != major:
 			num--
-		} else {
+		default:
 			num++
 		}
 	}
