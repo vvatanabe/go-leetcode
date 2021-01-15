@@ -12,7 +12,7 @@ func trailingZeroes(n int) int {
 func trailingZeroes2(n int) int {
 	var v int
 	for {
-		n = n / 5
+		n /= 5
 		if n == 0 {
 			break
 		}
