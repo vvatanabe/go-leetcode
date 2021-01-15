@@ -39,3 +39,4 @@
 - [Excel Sheet Column Title](./excel_sheet_column_title/main.go)
 - [Majority Element](./majority_element/main.go)
 - [Excel Sheet Column Number](./excel_sheet_column_number/main.go)
+- [Factorial Trailing Zeroes](./factorial_trailing_zeroes/main.go)
