@@ -42,3 +42,4 @@
 - [Factorial Trailing Zeroes](./factorial_trailing_zeroes/main.go)
 - [Reverse Bits](./reverse_bits/main.go)
 - [Number of 1 Bits](./number_of_1_bits/main.go)
+- [Reverse Linked List](./reverse_linked_list/main.go)
