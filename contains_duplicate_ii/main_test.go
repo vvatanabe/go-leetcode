@@ -35,3 +35,37 @@ func Test_containsNearbyDuplicate(t *testing.T) {
 		})
 	}
 }
+
+func Test_containsNearbyDuplicate2(t *testing.T) {
+	type args struct {
+		nums []int
+		k    int
+	}
+	tests := []struct {
+		name string
+		args args
+		want bool
+	}{
+		{
+			args: args{
+				nums: []int{1, 2, 3, 1, 2, 3},
+				k:    2,
+			},
+			want: false,
+		},
+		{
+			args: args{
+				nums: []int{1, 2, 3, 1},
+				k:    3,
+			},
+			want: true,
+		},
+	}
+	for _, tt := range tests {
+		t.Run(tt.name, func(t *testing.T) {
+			if got := containsNearbyDuplicate2(tt.args.nums, tt.args.k); got != tt.want {
+				t.Errorf("containsNearbyDuplicate2() = %v, want %v", got, tt.want)
+			}
+		})
+	}
+}
