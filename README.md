@@ -44,3 +44,4 @@
 - [Number of 1 Bits](./number_of_1_bits/main.go)
 - [Reverse Linked List](./reverse_linked_list/main.go)
 - [Contains Duplicate](./contains_duplicate/main.go)
+- [Contains Duplicate II](./contains_duplicate_ii/main.go)
