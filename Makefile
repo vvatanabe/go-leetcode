@@ -1,5 +1,8 @@
 .PHONY: dir
-dir:
+init:
+	git checkout main; \
+	git pull; \
+	git checkout -b $(NAME)
 	SNAKE=`echo $(NAME) | sed s/-/_/g)`; \
 	mkdir -p $$SNAKE; \
 	echo "package main" > $$SNAKE/main.go; \
