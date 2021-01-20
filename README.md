@@ -49,3 +49,4 @@
 - [Invert Binary Tree](./invert_binary_tree/main.go)
 - [Power of Two](./power_of_two/main.go)
 - [Implement Queue using Stacks](./implement_queue_using_stacks/main.go)
+- [LRU Cache](./lru_cache/main.go)
