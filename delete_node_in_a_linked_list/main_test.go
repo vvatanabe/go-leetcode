@@ -42,7 +42,8 @@ func Test_deleteNode(t *testing.T) {
 	}
 	for _, tt := range tests {
 		t.Run(tt.name, func(t *testing.T) {
-			if deleteNode(tt.args.node.Next); !reflect.DeepEqual(tt.args.node, tt.want) {
+			deleteNode(tt.args.node.Next)
+			if !reflect.DeepEqual(tt.args.node, tt.want) {
 				t.Errorf("deleteNode() = %v, want %v", tt.args.node, tt.want)
 			}
 		})
