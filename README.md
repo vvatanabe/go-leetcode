@@ -47,3 +47,4 @@
 - [Contains Duplicate II](./contains_duplicate_ii/main.go)
 - [Implement Stack using Queues](./implement_stack_using_queues/main.go)
 - [Invert Binary Tree](./invert_binary_tree/main.go)
+- [Power of Two](./power_of_two/main.go)
