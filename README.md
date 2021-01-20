@@ -48,3 +48,4 @@
 - [Implement Stack using Queues](./implement_stack_using_queues/main.go)
 - [Invert Binary Tree](./invert_binary_tree/main.go)
 - [Power of Two](./power_of_two/main.go)
+- [Implement Queue using Stacks](./implement_queue_using_stacks/main.go)
