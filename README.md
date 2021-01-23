@@ -54,3 +54,4 @@
 - [Valid Anagram](./valid_anagram/main.go)
 - [Binary Tree Paths](./binary_tree_paths/main.go)
 - [Ugly Number](./ugly_number/main.go)
+- [Missing Number](./missing_number/main.go)
