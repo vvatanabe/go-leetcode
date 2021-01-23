@@ -53,3 +53,4 @@
 - [Delete Node in a Linked List](./lru_cache/main.go)
 - [Valid Anagram](./valid_anagram/main.go)
 - [Binary Tree Paths](./binary_tree_paths/main.go)
+- [Ugly Number](./ugly_number/main.go)
