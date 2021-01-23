@@ -55,3 +55,4 @@
 - [Binary Tree Paths](./binary_tree_paths/main.go)
 - [Ugly Number](./ugly_number/main.go)
 - [Missing Number](./missing_number/main.go)
+- [First Bad Version](./first_bad_version/main.go)
