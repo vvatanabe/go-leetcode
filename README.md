@@ -56,3 +56,4 @@
 - [Ugly Number](./ugly_number/main.go)
 - [Missing Number](./missing_number/main.go)
 - [First Bad Version](./first_bad_version/main.go)
+- [Move Zeroes](./move_zeroes/main.go)
