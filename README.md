@@ -59,3 +59,4 @@
 - [Move Zeroes](./move_zeroes/main.go)
 - [Word Pattern](./word_pattern/main.go)
 - [Nim Game](./nim_game/main.go)
+- [Power of Three](./power_of_three/main.go)
