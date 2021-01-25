@@ -60,3 +60,4 @@
 - [Word Pattern](./word_pattern/main.go)
 - [Nim Game](./nim_game/main.go)
 - [Power of Three](./power_of_three/main.go)
+- [Power of Four](./power_of_four/main.go)
