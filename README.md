@@ -62,3 +62,4 @@
 - [Power of Three](./power_of_three/main.go)
 - [Power of Four](./power_of_four/main.go)
 - [Reverse String](./reverse_string/main.go)
+- [Reverse Vowels of a String](./reverse_vowels_of_a_string/main.go)
