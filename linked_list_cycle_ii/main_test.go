@@ -7,8 +7,8 @@ import (
 
 func Test_detectCycle(t *testing.T) {
 
-	//[3,2,0,-4]
-	//1
+	// args: [3,2,0,-4]
+	// want: 1
 
 	list := &ListNode{
 		Val: 3,
