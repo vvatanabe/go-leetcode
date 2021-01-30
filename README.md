@@ -68,3 +68,4 @@
 - [Valid Perfect Square](./valid_perfect_square/main.go)
 - [Guess Number Higher or Lower](./guess_number_higher_or_lower/main.go)
 - [Ransom Note](./ransom_note/main.go)
+- [First Unique Character in a String](./first_unique_character_in_a_string/main.go)
