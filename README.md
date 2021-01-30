@@ -66,3 +66,4 @@
 - [Intersection of Two Arrays](./intersection_of_two_arrays/main.go)
 - [Intersection of Two Arrays II](./intersection_of_two_arrays_ii/main.go)
 - [Valid Perfect Square](./valid_perfect_square/main.go)
+- [Guess Number Higher or Lower](./guess_number_higher_or_lower/main.go)
