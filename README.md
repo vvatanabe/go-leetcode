@@ -74,3 +74,4 @@
 - [Remove Duplicates from Sorted List II](./remove_duplicates_from_sorted_list_ii/main.go)
 - [Unique Email Addresses](./unique_email_addresses/main.go)
 - [Is Subsequence](./is_subsequence/main.go)
+- [Sum of Left Leaves](./sum_of_left_leaves/main.go)
