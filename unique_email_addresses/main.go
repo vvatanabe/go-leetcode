@@ -14,7 +14,7 @@ func numUniqueEmails(emails []string) int {
 		if i > 0 {
 			local = local[:i]
 		}
-		email = strings.Replace(local, ".", "", -1) + "@" + local2host[1]
+		email = strings.ReplaceAll(local, ".", "") + "@" + local2host[1]
 		fmt.Println(email)
 		_, exists := set[email]
 		if !exists {
