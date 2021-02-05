@@ -75,3 +75,4 @@
 - [Unique Email Addresses](./unique_email_addresses/main.go)
 - [Is Subsequence](./is_subsequence/main.go)
 - [Sum of Left Leaves](./sum_of_left_leaves/main.go)
+- [Longest Palindrome](./longest_palindrome/main.go)
