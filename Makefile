@@ -7,7 +7,7 @@ init:
 	mkdir -p $$SNAKE; \
 	echo "package main" > $$SNAKE/main.go; \
 	echo "package main" > $$SNAKE/main_test.go; \
-	echo [](./$$SNAKE/main.go) >> README.md; \
+	echo "- [Title](./$$SNAKE/main.go)" >> README.md; \
 	goland ./$$SNAKE/main.go
 
 .PHONY: test
