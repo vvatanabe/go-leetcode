@@ -78,3 +78,4 @@
 - [Longest Palindrome](./longest_palindrome/main.go)
 - [Convert a Number to Hexadecimal](./convert_a_number_to_hexadecimal/main.go)
 - [Fizz Buzz](./fizz_buzz/main.go)
+- [Third Maximum Number](./third_maximum_number/main.go)
