@@ -79,3 +79,4 @@
 - [Convert a Number to Hexadecimal](./convert_a_number_to_hexadecimal/main.go)
 - [Fizz Buzz](./fizz_buzz/main.go)
 - [Third Maximum Number](./third_maximum_number/main.go)
+- [Number of Segments in a String](./number_of_segments_in_a_string/main.go)
