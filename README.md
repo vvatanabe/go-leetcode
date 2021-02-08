@@ -82,3 +82,4 @@
 - [Number of Segments in a String](./number_of_segments_in_a_string/main.go)
 - [Find All Numbers Disappeared in an Array](./find_all_numbers_disappeared_in_an_array/main.go)
 - [Number Complement](./number_complement/main.go)
+- [Island Perimeter](./island_perimeter/main.go)
