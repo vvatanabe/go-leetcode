@@ -83,3 +83,4 @@
 - [Find All Numbers Disappeared in an Array](./find_all_numbers_disappeared_in_an_array/main.go)
 - [Number Complement](./number_complement/main.go)
 - [Island Perimeter](./island_perimeter/main.go)
+- [License Key Formatting](./license_key_formatting/main.go)
