@@ -3,8 +3,8 @@ package main
 func findMaxConsecutiveOnes(nums []int) int {
 	var max, cur int
 	for _, n := range nums {
-		cur = cur + n
-		cur = cur * n
+		cur += n
+		cur *= n
 		if max < cur {
 			max = cur
 		}
