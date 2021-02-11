@@ -84,3 +84,4 @@
 - [Number Complement](./number_complement/main.go)
 - [Island Perimeter](./island_perimeter/main.go)
 - [License Key Formatting](./license_key_formatting/main.go)
+- [Max Consecutive Ones](./max_consecutive_ones/main.go)
