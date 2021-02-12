@@ -86,3 +86,4 @@
 - [License Key Formatting](./license_key_formatting/main.go)
 - [Max Consecutive Ones](./max_consecutive_ones/main.go)
 - [Construct the Rectangle](./construct_the_rectangle/main.go)
+- [Next Greater Element I](./next_greater_element_i/main.go)
