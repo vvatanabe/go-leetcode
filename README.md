@@ -87,3 +87,4 @@
 - [Max Consecutive Ones](./max_consecutive_ones/main.go)
 - [Construct the Rectangle](./construct_the_rectangle/main.go)
 - [Next Greater Element I](./next_greater_element_i/main.go)
+- [Keyboard Row](./keyboard_row/main.go)
