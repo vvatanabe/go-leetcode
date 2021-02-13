@@ -21,10 +21,10 @@ type Node struct {
 	next  *Node
 }
 
-func NewHashMap(cap int) *HashMap {
+func NewHashMap(capacity int) *HashMap {
 	return &HashMap{
-		table:    make([]*Node, cap),
-		capacity: cap,
+		table:    make([]*Node, capacity),
+		capacity: capacity,
 	}
 }
 
