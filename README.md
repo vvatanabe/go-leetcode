@@ -89,3 +89,4 @@
 - [Next Greater Element I](./next_greater_element_i/main.go)
 - [Keyboard Row](./keyboard_row/main.go)
 - [Base 7](./base_7/main.go)
+- [Relative Ranks](./relative_ranks/main.go)
