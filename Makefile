@@ -4,11 +4,10 @@ init:
 	git pull; \
 	git checkout -b $(NAME)
 	SNAKE=`echo $(NAME) | sed s/-/_/g)`; \
-	mkdir -p $$SNAKE; \
+	mkdir -p problemset/$$SNAKE; \
 	echo "package main" > problemset/$$SNAKE/main.go; \
 	echo "package main" > problemset/$$SNAKE/main_test.go; \
-	echo "- [Title](./problemset/$$SNAKE/main.go)" >> README.md; \
-	goland ./$$SNAKE/main.go
+	echo "- [Title](./problemset/$$SNAKE/main.go)" >> README.md;
 
 .PHONY: test
 test:
