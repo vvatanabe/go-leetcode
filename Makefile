@@ -5,9 +5,9 @@ init:
 	git checkout -b $(NAME)
 	SNAKE=`echo $(NAME) | sed s/-/_/g)`; \
 	mkdir -p $$SNAKE; \
-	echo "package main" > $$SNAKE/main.go; \
-	echo "package main" > $$SNAKE/main_test.go; \
-	echo "- [Title](./$$SNAKE/main.go)" >> README.md; \
+	echo "package main" > problemset/$$SNAKE/main.go; \
+	echo "package main" > problemset/$$SNAKE/main_test.go; \
+	echo "- [Title](./problemset/$$SNAKE/main.go)" >> README.md; \
 	goland ./$$SNAKE/main.go
 
 .PHONY: test
