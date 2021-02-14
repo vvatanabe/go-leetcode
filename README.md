@@ -100,3 +100,4 @@
 - [Base 7](problemset/base_7/main.go)
 - [Relative Ranks](problemset/relative_ranks/main.go)
 - [Fibonacci Number](./problemset/fibonacci_number/main.go)
+- [Perfect Number](./problemset/perfect_number/main.go)
