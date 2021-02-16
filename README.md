@@ -101,3 +101,4 @@
 - [Relative Ranks](problemset/relative_ranks/main.go)
 - [Fibonacci Number](./problemset/fibonacci_number/main.go)
 - [Perfect Number](./problemset/perfect_number/main.go)
+- [Detect Capital](./problemset/detect_capital/main.go)
