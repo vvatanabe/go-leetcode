@@ -11,23 +11,21 @@ import "math"
  * }
  */
 func getMinimumDifference(root *TreeNode) int {
-	prev := -1
-	min := math.MaxInt64
-	helper(root, &prev, &min)
+	_, min := helper(root, -1, math.MaxInt32)
 	return min
 }
 
-func helper(root *TreeNode, prev, min *int) {
-	if root != nil {
-		helper(root.Left, prev, min)
-		if *prev != -1 {
-			if root.Val-*prev < *min {
-				*min = root.Val - *prev
-			}
-		}
-		*prev = root.Val
-		helper(root.Right, prev, min)
+func helper(root *TreeNode, prev, min int) (int, int) {
+	if root == nil {
+		return prev, min
 	}
+	prev, min = helper(root.Left, prev, min)
+	if prev != -1 {
+		if diff := root.Val - prev; diff < min {
+			min = diff
+		}
+	}
+	return helper(root.Right, root.Val, min)
 }
 
 type TreeNode struct {
