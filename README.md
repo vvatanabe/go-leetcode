@@ -102,3 +102,4 @@
 - [Fibonacci Number](./problemset/fibonacci_number/main.go)
 - [Perfect Number](./problemset/perfect_number/main.go)
 - [Detect Capital](./problemset/detect_capital/main.go)
+- [Minimum Absolute Difference in BST](./problemset/minimum_absolute_difference_in_bst/main.go)
