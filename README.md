@@ -103,3 +103,5 @@
 - [Perfect Number](./problemset/perfect_number/main.go)
 - [Detect Capital](./problemset/detect_capital/main.go)
 - [Minimum Absolute Difference in BST](./problemset/minimum_absolute_difference_in_bst/main.go)
+- [Reverse String II](./problemset/reverse_string_ii/main.go)
+- [Diameter of Binary Tree](./problemset/diameter_of_binary_tree/main.go)
