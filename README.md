@@ -105,3 +105,4 @@
 - [Minimum Absolute Difference in BST](./problemset/minimum_absolute_difference_in_bst/main.go)
 - [Reverse String II](./problemset/reverse_string_ii/main.go)
 - [Diameter of Binary Tree](./problemset/diameter_of_binary_tree/main.go)
+- [Student Attendance Record I](./problemset/student_attendance_record_i/main.go)
