@@ -7,9 +7,6 @@ import (
 // Input: "Let's take LeetCode contest"
 // Output: "s'teL ekat edoCteeL tsetnoc"
 func reverseWords(s string) string {
-	if len(s) == 0 {
-		return ""
-	}
 	words, start, end := []rune(s), 0, -1
 	for i, r := range words {
 		if r == ' ' {
@@ -32,9 +29,6 @@ func reverseWords(s string) string {
 }
 
 func reverseWords2(s string) string {
-	if len(s) == 0 {
-		return ""
-	}
 	var words strings.Builder
 	var word string
 	for _, r := range s {
