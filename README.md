@@ -110,3 +110,4 @@
 - [Maximum Depth of N-ary Tree](./problemset/maximum_depth_of_n_ary_tree/main.go)
 - [N-ary Tree Preorder Traversal](./problemset/n_ary_tree_preorder_traversal/main.go)
 - [N-ary Tree Postorder Traversal](./problemset/n_ary_tree_postorder_traversal/main.go)
+- [Array Partition I](./problemset/array_partition_i/main.go)
