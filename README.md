@@ -111,3 +111,4 @@
 - [N-ary Tree Preorder Traversal](./problemset/n_ary_tree_preorder_traversal/main.go)
 - [N-ary Tree Postorder Traversal](./problemset/n_ary_tree_postorder_traversal/main.go)
 - [Array Partition I](./problemset/array_partition_i/main.go)
+- [Reshape the Matrix](./problemset/reshape_the_matrix/main.go)
