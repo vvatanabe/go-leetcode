@@ -30,7 +30,7 @@
 - [Maximum Subarray](problemset/maximum_subarray/main.go)
 - [Add Binary](problemset/add_binary/main.go)
 - [Sqrt(x)](problemset/sqrtx/main.go)
-- [Climb Stairs](problemset/climbing_stairs/main.go)
+- [Climbing Stairs](problemset/climbing_stairs/main.go)
 - [Merge Sorted Array](problemset/merge_sorted_array/main.go)
 - [Same Tree](problemset/same_tree/main.go)
 - [Maximum Depth of Binary Tree](problemset/maximum_depth_of_binary_tree/main.go)
