@@ -11,7 +11,7 @@ package main
 // Input: l1 = [2,4,3], l2 = [5,6,4]
 // Output: [7,0,8]
 // Explanation: 342 + 465 = 807.
-func addTwoNumbers(l1 *ListNode, l2 *ListNode) *ListNode {
+func addTwoNumbers(l1, l2 *ListNode) *ListNode {
 	var (
 		head  ListNode
 		carry int
@@ -34,11 +34,11 @@ func addTwoNumbers(l1 *ListNode, l2 *ListNode) *ListNode {
 	return head.Next
 }
 
-func addTwoNumbers2(l1 *ListNode, l2 *ListNode) *ListNode {
+func addTwoNumbers2(l1, l2 *ListNode) *ListNode {
 	return helper(l1, l2, 0)
 }
 
-func helper(l1 *ListNode, l2 *ListNode, carry int) *ListNode {
+func helper(l1, l2 *ListNode, carry int) *ListNode {
 	if l1 == nil && l2 == nil && carry == 0 {
 		return nil
 	}
