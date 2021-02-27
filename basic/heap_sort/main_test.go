@@ -5,7 +5,7 @@ import (
 	"testing"
 )
 
-func Test_bubbleSort(t *testing.T) {
+func Test_heapSort(t *testing.T) {
 	type args struct {
 		nums []int
 	}
@@ -23,9 +23,9 @@ func Test_bubbleSort(t *testing.T) {
 	}
 	for _, tt := range tests {
 		t.Run(tt.name, func(t *testing.T) {
-			bubbleSort(tt.args.nums)
+			heapSort(tt.args.nums)
 			if !reflect.DeepEqual(tt.args.nums, tt.want) {
-				t.Errorf("bubbleSort() = %v, want %v", tt.args.nums, tt.want)
+				t.Errorf("heapSort() = %v, want %v", tt.args.nums, tt.want)
 			}
 		})
 	}
