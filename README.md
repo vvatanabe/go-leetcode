@@ -10,6 +10,7 @@
 - [Bubble Sort](basic/bubble_sort/main.go)
 - [Selection Sort](basic/selection_sort/main.go)
 - [Insertion Sort](basic/insertion_sort/main.go)
+- [Heap Sort](basic/heap_sort/main.go)
 - [Hash Table](basic/hash_table/main.go)
 - [Singly Linked List](basic/singly_linked_list/main.go)
 
