@@ -119,3 +119,4 @@
 - [Remove Duplicates from Sorted List](./problemset/remove_duplicates_from_sorted_list/main.go)
 - [Add Two Numbers](./problemset/add_two_numbers/main.go)
 - [Longest Substring Without Repeating Characters](./problemset/longest_substring_without_repeating_characters/main.go)
+- [Maximum Product of Three Numbers](./problemset/maximum_product_of_three_numbers/main.go)
