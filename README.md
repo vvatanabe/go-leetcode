@@ -120,3 +120,4 @@
 - [Add Two Numbers](./problemset/add_two_numbers/main.go)
 - [Longest Substring Without Repeating Characters](./problemset/longest_substring_without_repeating_characters/main.go)
 - [Maximum Product of Three Numbers](./problemset/maximum_product_of_three_numbers/main.go)
+- [Longest Word in Dictionary through Deleting](./problemset/longest_word_in_dictionary_through_deleting/main.go)
