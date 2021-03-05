@@ -123,3 +123,4 @@
 - [Longest Word in Dictionary through Deleting](./problemset/longest_word_in_dictionary_through_deleting/main.go)
 - [Longest Uncommon Subsequence I](./problemset/longest_uncommon_subsequence_i/main.go)
 - [Intersection of Two Linked Lists](./problemset/intersection_of_two_linked_lists/main.go)
+- [Average of Levels in Binary Tree](./problemset/average_of_levels_in_binary_tree/main.go)
