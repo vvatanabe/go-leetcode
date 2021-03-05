@@ -122,3 +122,4 @@
 - [Maximum Product of Three Numbers](./problemset/maximum_product_of_three_numbers/main.go)
 - [Longest Word in Dictionary through Deleting](./problemset/longest_word_in_dictionary_through_deleting/main.go)
 - [Longest Uncommon Subsequence I](./problemset/longest_uncommon_subsequence_i/main.go)
+- [Intersection of Two Linked Lists](./problemset/intersection_of_two_linked_lists/main.go)
